@@ -4,3 +4,4 @@ resolusi diri di tahun 2024 :
 2.ngoding woi jan ngegame mulu
 3.bikin laravel login sampe kelar woi!
 5.membuat dashboard website
+> platform dashboard
