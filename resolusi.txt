@@ -5,3 +5,5 @@ resolusi diri di tahun 2024 :
 3.bikin laravel login sampe kelar woi!
 5.membuat dashboard website
 > platform dashboard
+6.materi
+
